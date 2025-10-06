@@ -2,4 +2,4 @@
 .env
 .direnv
 /src/generated/prisma
-dist
+/dist
